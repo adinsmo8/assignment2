@@ -36,9 +36,14 @@ img {
 
 
 
+
 #special-picture {
     box-shadow: 3px 3px yellow;
     height: 60px;
 }
 
+#logo {
+    box-shadow: none;
+    height: 35px;
+}
 
